@@ -1,4 +1,31 @@
-{"monster":[
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "ToB",
+				"abbreviation": "ToB",
+				"full": "Tome of Beasts",
+				"authors": [
+					"Wolfgang Baur",
+					"Dan Dillon",
+					"Rodrigo Garcia Carmona",
+					"Chris Harris",
+					"Kobold Press"
+				],
+				"version": "1.0.1",
+				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/",
+				"convertedBy": [
+					"anonymous",
+					"mrhorseshoe",
+					"Spappz"
+				],
+				"color": "89181A",
+				"targetSchema": "1.3.4"
+			}
+		],
+		"dateAdded": 1537874753,
+		"dateLastModified": 1611978808
+	},
 	{
 	"name": "Valkoinen (Young White Dragon)",
 	"group": "Chromatic Dragon",
@@ -266,4 +293,4 @@
 	},
 	"shortName": "Valkoinen"
 }
-]}
+}
