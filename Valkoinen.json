@@ -2,31 +2,25 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "ToB",
-				"abbreviation": "ToB",
-				"full": "Tome of Beasts",
+				"json": "KyriakosMonsters",
+				"abbreviation": "KKM",
+				"full": "Monsters of Kyriakos",
 				"authors": [
-					"Wolfgang Baur",
-					"Dan Dillon",
-					"Rodrigo Garcia Carmona",
-					"Chris Harris",
-					"Kobold Press"
+					"Jose Romero"
 				],
-				"version": "1.0.1",
-				"url": "https://koboldpress.com/kpstore/product/tome-of-beasts-for-5th-edition/",
 				"convertedBy": [
-					"anonymous",
-					"mrhorseshoe",
-					"Spappz"
+					"Jose Romero"
 				],
-				"color": "89181A",
-				"targetSchema": "1.3.4"
+				"version": "2020.12.19",
+				"url": "",
+				"targetSchema": "1.6.3"
 			}
 		],
-		"dateAdded": 1537874753,
-		"dateLastModified": 1611978808
+		"dateAdded": 1608367627,
+		"dateLastModified": 1608367627
 	},
-	{
+	"monster": [
+		{
 	"name": "Valkoinen (Young White Dragon)",
 	"group": "Chromatic Dragon",
 	"source": "KyriakosMonsters",
@@ -292,5 +286,4 @@
 		]
 	},
 	"shortName": "Valkoinen"
-}
-
+}]}
